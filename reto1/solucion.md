@@ -7,8 +7,7 @@
 ## Docker
 
 	
-	rear un contenedor a partir de la imagen nginx , el contenedor se debe llamar servidor_web y se debe acceder a él utilizando el puerto 8181 del ordenador donde
-tengas instalado docker.
+	rear un contenedor a partir de la imagen nginx , el contenedor se debe llamar servidor_web y se debe acceder a él utilizando el puerto 8181 del ordenador donde tengas instalado docker.
 
 
 ### Pantallazo donde se ve la creacion del contenedor 
